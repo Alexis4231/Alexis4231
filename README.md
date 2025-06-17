@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh2eXpucGVraW9idWY0amRzMmYzc3gzcWljbmcybGNrbjk1N3M5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="500" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjA4ZXIwZWNrdHI1eDRxcjgybWM5Nnlmbzk5cHp1YjJtdDc2ZGE5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="500" />
 </div>
 
 # Hi there, I'm Alexis 👋
