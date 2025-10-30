@@ -1,18 +1,36 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjA4ZXIwZWNrdHI1eDRxcjgybWM5Nnlmbzk5cHp1YjJtdDc2ZGE5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="500" />
-</div>
+# 🔥 Alexis Moya Zárate | Backend JVM Developer & Systems Background
 
-# Hi there, I'm Alexis 👋
+### 🎯 **The Pitch: Focused on Backend & Cloud-Ready**
 
-💻 I’ve successfully completed my studies in **Cross-Platform Application Development (DAM)** and **Networked Computer Systems Administration (ASIR).**
+I'm a **Junior Backend Developer** with a Dual Higher Vocational Degree in **Cross-Platform Application Development (DAM)** and **Networked Computer Systems Administration (ASIR)**.
 
-🚀 I’m currently looking for my **first professional opportunity** in the IT sector where I can keep learning, contribute to exciting projects, and grow in any direction—I'm open to everything.
+I'm currently seeking my **first professional role in Madrid** to build and scale backend systems using the JVM ecosystem.
 
-## 🌟 About Me
-- 🎓 Graduated in **DAM and ASIR**.
-- 🌱 Currently focusing on **backend development, web technologies, and system administration**, but I’m always ready to explore new areas.
-- 💬 I’m passionate about building solid, efficient solutions and I’m open to working with any technology stack or challenge.
-- 📫 How to reach me:
-  - ✉️ alexismoyazrt@gmail.com
-  - 💼 [LinkedIn](https://www.linkedin.com/in/alexis-moya-zárate-635b53284)
-- ⚡ Fun fact: I’m open to learning anything and taking on new challenges, because what excites me the most is growing, no matter the path.
+---
+
+### 🛠️ **Key Skills & Technology Stack**
+
+* **Backend Stack:** **Kotlin, Java, Spring Boot, RESTful APIs, Firebase/Cloud Firestore** (NoSQL).
+* **Architecture & Practices:** Experience with **MVVM, Repository Pattern, Unit Testing**, and clean code principles.
+* **Cloud & Infrastructure Edge:** Leveraging my ASIR foundation in **Systems Administration, Virtualization, and Docker** to adopt a **DevOps** mindset. Currently pursuing the **AWS Cloud Practitioner** certification.
+
+---
+
+### ✨ **Featured Project**
+
+Demonstrating a complete development lifecycle, this project showcases my ability to develop and deploy robust backend solutions.
+
+#### **SongReview Backend API**
+
+* **Stack:** Kotlin, Spring Boot, **Firebase/Cloud Firestore**, Docker.
+* **Features:** Implements a scalable **REST API** with secure **User Authentication (e.g., JWT)** and complex business logic (e.g., rating system).
+* **Repo Link:** www.github.com/Alexis4231/SongReview
+
+---
+
+### 📬 **Let's Connect**
+
+I'm highly motivated to quickly contribute value to a technical team.
+
+* **Email:** alexismoyazrt@gmail.com
+* **LinkedIn:** www.linkedin.com/in/alexis-moya-zárate-635b53284
