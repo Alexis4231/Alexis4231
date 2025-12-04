@@ -26,9 +26,9 @@ I'm currently seeking my **first professional role** in Backend or Cloud, ideall
 ## 🛠️ Tech Stack & Tools
 
 ### 🔹 Backend
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
 ### 🔹 Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -70,5 +70,6 @@ A complete backend lifecycle project showcasing architecture, deployment, and go
 
 ⭐ *Thanks for visiting my profile!*  
 🔥 *Let’s build something great together.*
+
 
 
