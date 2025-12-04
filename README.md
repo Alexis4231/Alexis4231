@@ -63,8 +63,9 @@ A complete backend lifecycle project showcasing architecture, deployment, and go
 
 ## 📊 GitHub Stats
 
-![Alexis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexis4231&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis4231&layout=compact&theme=tokyonight)
+![Alexis' GitHub Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Alexis4231&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Alexis4231&layout=compact&theme=tokyonight)
+
 
 ---
 
@@ -77,3 +78,4 @@ A complete backend lifecycle project showcasing architecture, deployment, and go
 
 ⭐ *Thanks for visiting my profile!*  
 🔥 *Let’s build something great together.*
+
