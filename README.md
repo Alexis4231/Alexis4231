@@ -47,17 +47,19 @@ I'm currently seeking my **first professional role** in Backend or Cloud, ideall
 
 ## ⭐ Featured Project
 
-### 🎵 SongReview Backend API  
-A complete backend lifecycle project showcasing architecture, deployment, and good practices.
+### 🎵 SongReview  
+Companion Android application built with Kotlin and Jetpack Compose.
 
 #### 🔧 Stack:
-- **Kotlin**, **Spring Boot**, **Firebase / Firestore**, **Docker**
+- **Kotlin**, **Spring Boot**, **Firebase / Firestore**
 
 #### ✨ Features:
-- Secure authentication using **JWT**
-- Scalable **REST API**
-- Clean architecture & business logic
-- Repository & service layer separation
+- Modern UI built with **Jetpack Compose**
+- **MVVM + Clean Architecture**
+- Firebase Authentication
+- Firestore realtime persistence
+- Song rating & review system
+- Full integration with the backend API
 
 🔗 **Repo:** https://github.com/Alexis4231/SongReview
 
@@ -72,6 +74,7 @@ A complete backend lifecycle project showcasing architecture, deployment, and go
 
 ⭐ *Thanks for visiting my profile!*  
 🔥 *Let’s build something great together.*
+
 
 
 
