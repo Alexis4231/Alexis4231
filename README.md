@@ -7,7 +7,7 @@
 
 I'm a **Junior Backend Developer** with a dual Higher Vocational Degree in:
 
-- **Cross-Platform Application Development (DAM)**
+- **Multiplatform Application Development (DAM)**
 - **Networked Computer Systems Administration (ASIR)**
 
 I enjoy building **scalable, maintainable, and efficient backend systems**, and I’m strongly focused on:
@@ -26,11 +26,9 @@ I'm currently seeking my **first professional role** in Backend or Cloud, ideall
 ## 🛠️ Tech Stack & Tools
 
 ### 🔹 Backend
-<span>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-</span>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🔹 Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -74,6 +72,7 @@ Companion Android application built with Kotlin and Jetpack Compose.
 
 ⭐ *Thanks for visiting my profile!*  
 🔥 *Let’s build something great together.*
+
 
 
 
